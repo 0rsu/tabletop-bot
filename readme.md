@@ -1,0 +1,3 @@
+This program creates a two-way, conversational bot over a (very) basic webpage that can be interacted with using text-to-speech and speech-to-text. This is currently just a hastily cobbled together proof of concept, but before it is to be used in an actual compliance capacity, you're going to want to replace calls out to 3rd party AI services with local, secured and private services.
+
+I'm committing this code here for now so I can share it, and as such it's not necessarily in working order.  Also, I've removed my own API keys from the code so you'll need to replace those keys with your own.  Enyoy!
